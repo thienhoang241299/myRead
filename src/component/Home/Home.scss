@@ -1,0 +1,23 @@
+.Home {
+    a {
+
+        width: 4rem;
+        margin: 0 2rem;
+        padding: 0.5rem;
+        display: inline-block;
+        text-align: center;
+        background-color: lightpink;
+        text-decoration: none;
+        font-size: 1rem;
+        font-weight: 300;
+    }
+
+    .lsBooks {
+
+        display: flex;
+
+        >div {
+            margin: 0.5rem 2rem;
+        }
+    }
+}
